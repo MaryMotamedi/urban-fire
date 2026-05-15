@@ -6,3 +6,4 @@ scikit-learn
 geopandas
 statsmodels
 jupyter
+openpyxl
